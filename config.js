@@ -51,26 +51,26 @@ global.sdc = 'https://github.com/fachri31'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088227758096'
-global.povo = '088227758096'
+global.pdana = '085217513238'
+global.povo = '085217513238'
 global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '-'
-global.nomorown = '6288227758096'
-global.namebot = 'FAZH BOT'
-global.nameown = 'FACHRI-OFC'
+global.nomorbot = '6285936573932'
+global.nomorown = '6285936573932'
+global.namebot = 'Zxdream'
+global.nameown = 'Ranz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288227758096'],
-  ['6288227758096'],
-  ['6288227758096'],
-  ['6288227758096', 'FachriOfc', true]
+  ['6285936573932'],
+  ['6285936573932'],
+  ['6285936573932'],
+  ['6285936573932', 'FachriOfc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FazhBot あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ FazhBoT - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺Fazh𝗕𝗢𝗧'
+global.wm = '                「 Zxdream あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ Zxdream - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺Zxdream'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱Bot WHATSAPP ʙᴏᴛ'
